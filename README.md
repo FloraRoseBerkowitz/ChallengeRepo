@@ -9,7 +9,7 @@ Recipes used
 ![Alt Text](IMG_1779.jpg)
 ![Alt Text](IMG_1781.jpg)
 
-[![Alt Text](Screenshot1.jpg2)](https://youtu.be/Jzrix7-FOi0)
+[![Alt Text](Screenshot1.jpg)](https://youtu.be/Jzrix7-FOi0)
 
 
 
