@@ -10,8 +10,8 @@ Recipes used
 ![Alt Text](IMG_1781.jpg)
 ![Alt Text](IMG_1788.jpg)
 ![Alt Text](IMG_1785.jpg)
-![Alt Text](IMG_1820.jpg)
-![Alt Text](/Users/flora/Downloads/IMG_1819.jpg)
+
+
 
 
 Useful link 
