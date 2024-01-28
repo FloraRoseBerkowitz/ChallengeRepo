@@ -1,12 +1,7 @@
 # Documentation challenge Repository - Create a biomaterial and use the laser cut
 Initial testing of recipes
-
-
 Recipes used
 <img src="IMG_1778.jpg" width="600" height="400" alt="Alt Text">
-
-
-
 <img src="IMG_1780.jpg" width="300" height="400" alt="Alt Text">
 <img src="IMG_1779.jpg" width="300" height="400" alt="Alt Text">
 <img src="IMG_1781.jpg" width="400" height="400" alt="Alt Text">
