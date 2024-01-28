@@ -7,9 +7,9 @@ Recipes used
 
 
 
-<img src="IMG_1780.jpg" width="1200" height="800" alt="Alt Text">
-<img src="IMG_1779.jpg" width="1200" height="800" alt="Alt Text">
-<img src="IMG_1781.jpg" width="1200" height="800" alt="Alt Text">
+<img src="IMG_1780.jpg" width="600" height="400" alt="Alt Text">
+<img src="IMG_1779.jpg" width="600" height="400" alt="Alt Text">
+<img src="IMG_1781.jpg" width="600" height="400" alt="Alt Text">
 
 ![Alt Text](IMG_1823.jpg)
 ![Alt Text](IMG_1820.jpg)
