@@ -14,7 +14,6 @@ Initial testing of recipes
 ![Alt Text](IMG_1820.jpg)
 ![Alt Text](IMG_1788.jpg)
 ![Alt Text](IMG_1784.jpg)
-Laser Cutting
 [![Alt Text](Screenshot1.jpg)](https://youtu.be/Jzrix7-FOi0)
 Inspiration and research
 Useful link 
