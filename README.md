@@ -4,7 +4,9 @@ Initial testing of recipes
 
 Recipes used
 
-![Alt Text](IMG_1778.jpg)<" width="200" height="150">
+![Alt Text](IMG_1778.jpg)
+<img src="IMG_1778.jpg" width="300" height="200" alt="Alt Text">
+
 
 ![Alt Text](IMG_1780.jpg)
 ![Alt Text](IMG_1779.jpg)
