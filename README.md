@@ -3,15 +3,14 @@ Initial testing of recipes
 
 
 Recipes used
-
-![Alt Text](IMG_1778.jpg)
 <img src="IMG_1778.jpg" width="600" height="400" alt="Alt Text">
 
 
 
-![Alt Text](IMG_1780.jpg)
-![Alt Text](IMG_1779.jpg)
-![Alt Text](IMG_1781.jpg)
+<img src="IMG_1780.jpg" width="1200" height="800" alt="Alt Text">
+<img src="IMG_1779.jpg" width="1200" height="800" alt="Alt Text">
+<img src="IMG_1781.jpg" width="1200" height="800" alt="Alt Text">
+
 ![Alt Text](IMG_1823.jpg)
 ![Alt Text](IMG_1820.jpg)
 ![Alt Text](IMG_1788.jpg)
