@@ -13,7 +13,7 @@ Recipes used
 ![Alt Text](IMG_1788.jpg)
 ![Alt Text](IMG_1784.jpg)
 [![Alt Text](Screenshot1.jpg)](https://youtu.be/Jzrix7-FOi0)
-![Alt Text](266fc99c-7436-450c-83af-f53954283fe3.JPG9)
+![Alt Text](266fc99c-7436-450c-83af-f53954283fe3.JPG)
 
 
 Useful link 
