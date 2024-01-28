@@ -8,8 +8,6 @@ Recipes used
 ![Alt Text](IMG_1780.jpg)
 ![Alt Text](IMG_1779.jpg)
 ![Alt Text](IMG_1781.jpg)
-![Alt Text](IMG_1788.jpg)
-![Alt Text](IMG_1785.jpg)
 
 
 
